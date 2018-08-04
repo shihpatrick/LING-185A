@@ -1,1 +1,3 @@
-# LING-185A
+# Probablistic Context Free Grammar
+
+Proof of Concept: 
